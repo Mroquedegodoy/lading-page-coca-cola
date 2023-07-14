@@ -1,7 +1,8 @@
 # Lading Page Coca-Cola.
 Olá, esta é uma Lading Page inspirada na Coca Cola.
 
-![image](https://github.com/Mroquedegodoy/lading_page_coca_cola/assets/139003445/d0eeecc0-73b4-422c-bbbc-7a8fa1401de1)
+![image](https://github.com/Mroquedegodoy/lading-page-coca-cola/assets/139003445/c546f748-c624-477d-ba46-7c7ff3c5f29e)
+
 
 
 ## Ferramentas utilizadas:
